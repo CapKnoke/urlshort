@@ -4,11 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	// "github.com/CapKnoke/urlshort"
 	"net/http"
 	"os"
-
-	"github.com/CapKnoke/urlshort"
+	"urlshort"
 )
 
 var (
